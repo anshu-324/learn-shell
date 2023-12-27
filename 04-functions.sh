@@ -1,6 +1,6 @@
 # if we assign a name to commands then it's a function.
 # declare a function
-abc( ) {
+abc() {
   echo hello world
   echo hello universe
 }
